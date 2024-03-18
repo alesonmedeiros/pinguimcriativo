@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galerias on O Pinguim Criativo</title>
+    <link>http://localhost:1313/galleries/</link>
+    <description>Recent content in Galerias on O Pinguim Criativo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>contato@pinguimcriativo.com (O Pinguim Criativo)</managingEditor>
+    <webMaster>contato@pinguimcriativo.com (O Pinguim Criativo)</webMaster>
+    <atom:link href="http://localhost:1313/galleries/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arch Linux &#43; GNOME</title>
+      <link>http://localhost:1313/galleries/g1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g1/</guid>
+      <description>@luccaspolonio</description>
+    </item>
+    <item>
+      <title>Arch Linux &#43; Hyprland</title>
+      <link>http://localhost:1313/galleries/g4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g4/</guid>
+      <description>@eu.beto</description>
+    </item>
+    <item>
+      <title>Archcraft &#43; Openbox</title>
+      <link>http://localhost:1313/galleries/g5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g5/</guid>
+      <description>@je4npw</description>
+    </item>
+    <item>
+      <title>BigLinux &#43; KDE Plasma</title>
+      <link>http://localhost:1313/galleries/g3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g3/</guid>
+      <description>@josejacsan</description>
+    </item>
+    <item>
+      <title>Fedora 38 &#43; GNOME</title>
+      <link>http://localhost:1313/galleries/g2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g2/</guid>
+      <description>@brunno_allves_2001</description>
+    </item>
+  </channel>
+</rss>
