@@ -1,19 +1,14 @@
+[build.environment]
+HUGO_VERSION = "0.124.0"
+DART_SASS_VERSION = "1.72.0"
+TZ = "America/Sao_Paulo"
+
 [build]
-    publish = "exampleSite/public"
-    command = "./hugo-ci.sh --gc -s exampleSite --minify"
-
-    [build.environment]
-        HUGO_VERSION = "0.115.1"
-        DART_SASS_VERSION = "1.72.0"
-
-[context.deploy-preview]
-    command = "./hugo-ci.sh -s exampleSite --minify -D -F -b $DEPLOY_PRIME_URL"
-
-    [context.deploy-preview.environment]
-        HUGO_VERSION = "0.115.1"
-
-[context.branch-deploy]
-    command = "./hugo-ci.sh -s exampleSite --minify --gc -b $DEPLOY_PRIME_URL"
-
-    [context.branch-deploy.environment]
-        HUGO_VERSION = "0.115.1"
+publish = "public"
+command = """
+  curl -LJO https://github.com/sass/dart-sass/releases/download/1.72.0/dart-sass-1.72.0-linux-x64.tar.gz && \
+  tar -xf dart-sass-1.72.0-linux-x64.tar.gz && \
+  rm dart-sass-1.72.0-linux-x64.tar.gz && \
+  export PATH=/opt/build/repo/dart-sass:$PATH && \
+  hugo --gc --minify
+"""
