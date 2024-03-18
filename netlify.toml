@@ -10,5 +10,5 @@ command = """
   tar -xf dart-sass-1.71.0-linux-x64.tar.gz && \
   rm dart-sass-1.71.0-linux-x64.tar.gz && \
   export PATH=/opt/build/repo/dart-sass:$PATH && \
-  hugo --gc --minify
+  hugo server
 """
