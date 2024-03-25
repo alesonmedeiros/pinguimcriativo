@@ -1,5 +1,6 @@
 [build.environment]
 HUGO_VERSION = "0.124.1"
+GO_VERSION = "1.23"
 TZ = "America/Sao_Paulo"
 
 [build]
