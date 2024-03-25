@@ -1,14 +1,7 @@
 [build.environment]
 HUGO_VERSION = "0.124.1"
-DART_SASS_VERSION = "1.70.0"
 TZ = "America/Sao_Paulo"
 
 [build]
 publish = "public"
-command = """\
-  curl -LJO https://github.com/sass/dart-sass/releases/download/${DART_SASS_VERSION}/dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz && \
-  tar -xf dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz && \
-  rm dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz && \
-  export PATH=/opt/build/repo/dart-sass:$PATH && \
-  hugo --gc --minify \
-  """
+command = "hugo --gc --minify"
