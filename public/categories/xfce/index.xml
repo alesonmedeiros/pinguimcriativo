@@ -1,21 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Xfce on O Pinguim Criativo</title>
+    <title>XFCE on O Pinguim Criativo</title>
     <link>http://localhost:1313/categories/xfce/</link>
-    <description>Recent content in Xfce on O Pinguim Criativo</description>
+    <description>Recent content in XFCE on O Pinguim Criativo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>contato@pinguimcriativo.com (O Pinguim Criativo)</managingEditor>
     <webMaster>contato@pinguimcriativo.com (O Pinguim Criativo)</webMaster>
-    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/xfce/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Arch Linux &#43; GNOME</title>
-      <link>http://localhost:1313/galleries/g1/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
-      <guid>http://localhost:1313/galleries/g1/</guid>
-      <description>This is the first gallery with photos from the first year of my photography.</description>
+      <title>Manjaro Linux &#43; XFCE</title>
+      <link>http://localhost:1313/galleries/g17/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g17/</guid>
+      <description>@gbr____</description>
+    </item>
+    <item>
+      <title>MX Linux 19 &#43; XFCE</title>
+      <link>http://localhost:1313/galleries/g12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g12/</guid>
+      <description>@eldermf</description>
+    </item>
+    <item>
+      <title>Ubuntu 18.04 &#43; XFCE</title>
+      <link>http://localhost:1313/galleries/g13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g13/</guid>
+      <description>@phillip.monterazzo</description>
     </item>
   </channel>
 </rss>

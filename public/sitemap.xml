@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2019-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/cinnamon/</loc>
+    <lastmod>2019-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/galleries/</loc>
+    <lastmod>2019-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2019-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/linux-mint/</loc>
+    <lastmod>2019-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/galleries/g18/</loc>
+    <lastmod>2019-09-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/arch-linux/</loc>
   </url><url>
     <loc>http://localhost:1313/galleries/g1/</loc>
@@ -16,24 +34,62 @@
   </url><url>
     <loc>http://localhost:1313/galleries/g3/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/categories/budgie/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/fedora/</loc>
   </url><url>
     <loc>http://localhost:1313/galleries/g2/</loc>
   </url><url>
-    <loc>http://localhost:1313/galleries/</loc>
-  </url><url>
     <loc>http://localhost:1313/categories/gnome/</loc>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/hyprland/</loc>
   </url><url>
+    <loc>http://localhost:1313/categories/kde/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/kde-plasma/</loc>
+  </url><url>
+    <loc>http://localhost:1313/galleries/g11/</loc>
+  </url><url>
+    <loc>http://localhost:1313/galleries/g15/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/manjaro-linux/</loc>
+  </url><url>
+    <loc>http://localhost:1313/galleries/g19/</loc>
+  </url><url>
+    <loc>http://localhost:1313/galleries/g17/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/mx-linux/</loc>
+  </url><url>
+    <loc>http://localhost:1313/galleries/g12/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/openbox/</loc>
   </url><url>
+    <loc>http://localhost:1313/categories/opensuse/</loc>
+  </url><url>
+    <loc>http://localhost:1313/galleries/g14/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/pop/</loc>
+  </url><url>
+    <loc>http://localhost:1313/galleries/g16/</loc>
+  </url><url>
     <loc>http://localhost:1313/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/tumbleweed/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/ubuntu/</loc>
+  </url><url>
+    <loc>http://localhost:1313/galleries/g10/</loc>
+  </url><url>
+    <loc>http://localhost:1313/galleries/g13/</loc>
+  </url><url>
+    <loc>http://localhost:1313/galleries/g8/</loc>
+  </url><url>
+    <loc>http://localhost:1313/galleries/g6/</loc>
+  </url><url>
+    <loc>http://localhost:1313/galleries/g7/</loc>
+  </url><url>
+    <loc>http://localhost:1313/galleries/g9/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/xfce/</loc>
   </url>
 </urlset>

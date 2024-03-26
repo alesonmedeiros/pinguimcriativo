@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Budgie on O Pinguim Criativo</title>
+    <link>http://localhost:1313/categories/budgie/</link>
+    <description>Recent content in Budgie on O Pinguim Criativo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>contato@pinguimcriativo.com (O Pinguim Criativo)</managingEditor>
+    <webMaster>contato@pinguimcriativo.com (O Pinguim Criativo)</webMaster>
+    <atom:link href="http://localhost:1313/categories/budgie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ubuntu 19.04 &#43; Budgie Desktop</title>
+      <link>http://localhost:1313/galleries/g8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g8/</guid>
+      <description>@the_one_who_knoccks</description>
+    </item>
+  </channel>
+</rss>

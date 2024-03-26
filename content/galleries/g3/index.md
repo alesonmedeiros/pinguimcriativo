@@ -1,6 +1,6 @@
 ---
 title: BigLinux + KDE Plasma
-categories: [KDE Plasma,BigLinux]
+categories: [KDE,BigLinux]
 date: 2024-19-07
 ---
 
