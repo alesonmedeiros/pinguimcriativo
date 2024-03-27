@@ -40,13 +40,15 @@
   </url><url>
     <loc>http://localhost:1313/galleries/g2/</loc>
   </url><url>
+    <loc>http://localhost:1313/categories/garuda-linux/</loc>
+  </url><url>
+    <loc>http://localhost:1313/galleries/g20/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/gnome/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/hyprland/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/kde/</loc>
-  </url><url>
-    <loc>http://localhost:1313/categories/kde-plasma/</loc>
   </url><url>
     <loc>http://localhost:1313/galleries/g11/</loc>
   </url><url>
