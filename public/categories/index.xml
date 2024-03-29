@@ -8,8 +8,92 @@
     <language>en-us</language>
     <managingEditor>contato@pinguimcriativo.com (O Pinguim Criativo)</managingEditor>
     <webMaster>contato@pinguimcriativo.com (O Pinguim Criativo)</webMaster>
-    <lastBuildDate>Thu, 12 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bspwm</title>
+      <link>http://localhost:1313/categories/bspwm/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/categories/bspwm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fedora</title>
+      <link>http://localhost:1313/categories/fedora/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/categories/fedora/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>KDE</title>
+      <link>http://localhost:1313/categories/kde/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/categories/kde/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OpenSUSE</title>
+      <link>http://localhost:1313/categories/opensuse/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/categories/opensuse/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tumbleweed</title>
+      <link>http://localhost:1313/categories/tumbleweed/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/categories/tumbleweed/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>COSMIC</title>
+      <link>http://localhost:1313/categories/cosmic/</link>
+      <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/categories/cosmic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GNOME</title>
+      <link>http://localhost:1313/categories/gnome/</link>
+      <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/categories/gnome/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pop</title>
+      <link>http://localhost:1313/categories/pop/</link>
+      <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/categories/pop/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BrOS</title>
+      <link>http://localhost:1313/categories/bros/</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/categories/bros/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Arch Linux</title>
+      <link>http://localhost:1313/categories/arch-linux/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/categories/arch-linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>XFCE</title>
+      <link>http://localhost:1313/categories/xfce/</link>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/categories/xfce/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ubuntu</title>
+      <link>http://localhost:1313/categories/ubuntu/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/categories/ubuntu/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Cinnamon</title>
       <link>http://localhost:1313/categories/cinnamon/</link>
@@ -25,17 +109,24 @@
       <description></description>
     </item>
     <item>
-      <title>Arch Linux</title>
-      <link>http://localhost:1313/categories/arch-linux/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
-      <guid>http://localhost:1313/categories/arch-linux/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Archcraft</title>
       <link>http://localhost:1313/categories/archcraft/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
       <guid>http://localhost:1313/categories/archcraft/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Artix Linux</title>
+      <link>http://localhost:1313/categories/artix-linux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/categories/artix-linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Awesome</title>
+      <link>http://localhost:1313/categories/awesome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/categories/awesome/</guid>
       <description></description>
     </item>
     <item>
@@ -53,10 +144,24 @@
       <description></description>
     </item>
     <item>
-      <title>Fedora</title>
-      <link>http://localhost:1313/categories/fedora/</link>
+      <title>DDE</title>
+      <link>http://localhost:1313/categories/dde/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
-      <guid>http://localhost:1313/categories/fedora/</guid>
+      <guid>http://localhost:1313/categories/dde/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Debian</title>
+      <link>http://localhost:1313/categories/debian/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/categories/debian/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Deepin</title>
+      <link>http://localhost:1313/categories/deepin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/categories/deepin/</guid>
       <description></description>
     </item>
     <item>
@@ -67,13 +172,6 @@
       <description></description>
     </item>
     <item>
-      <title>GNOME</title>
-      <link>http://localhost:1313/categories/gnome/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
-      <guid>http://localhost:1313/categories/gnome/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Hyprland</title>
       <link>http://localhost:1313/categories/hyprland/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
@@ -81,17 +179,10 @@
       <description></description>
     </item>
     <item>
-      <title>KDE</title>
-      <link>http://localhost:1313/categories/kde/</link>
+      <title>Manjaro</title>
+      <link>http://localhost:1313/categories/manjaro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
-      <guid>http://localhost:1313/categories/kde/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Manjaro Linux</title>
-      <link>http://localhost:1313/categories/manjaro-linux/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
-      <guid>http://localhost:1313/categories/manjaro-linux/</guid>
+      <guid>http://localhost:1313/categories/manjaro/</guid>
       <description></description>
     </item>
     <item>
@@ -109,38 +200,24 @@
       <description></description>
     </item>
     <item>
-      <title>OpenSUSE</title>
-      <link>http://localhost:1313/categories/opensuse/</link>
+      <title>Studio</title>
+      <link>http://localhost:1313/categories/studio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
-      <guid>http://localhost:1313/categories/opensuse/</guid>
+      <guid>http://localhost:1313/categories/studio/</guid>
       <description></description>
     </item>
     <item>
-      <title>Pop</title>
-      <link>http://localhost:1313/categories/pop/</link>
+      <title>Sway</title>
+      <link>http://localhost:1313/categories/sway/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
-      <guid>http://localhost:1313/categories/pop/</guid>
+      <guid>http://localhost:1313/categories/sway/</guid>
       <description></description>
     </item>
     <item>
-      <title>Tumbleweed</title>
-      <link>http://localhost:1313/categories/tumbleweed/</link>
+      <title>Void Linux</title>
+      <link>http://localhost:1313/categories/void-linux/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
-      <guid>http://localhost:1313/categories/tumbleweed/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ubuntu</title>
-      <link>http://localhost:1313/categories/ubuntu/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
-      <guid>http://localhost:1313/categories/ubuntu/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>XFCE</title>
-      <link>http://localhost:1313/categories/xfce/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
-      <guid>http://localhost:1313/categories/xfce/</guid>
+      <guid>http://localhost:1313/categories/void-linux/</guid>
       <description></description>
     </item>
   </channel>

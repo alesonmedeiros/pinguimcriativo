@@ -8,14 +8,77 @@
     <language>en-us</language>
     <managingEditor>contato@pinguimcriativo.com (O Pinguim Criativo)</managingEditor>
     <webMaster>contato@pinguimcriativo.com (O Pinguim Criativo)</webMaster>
-    <lastBuildDate>Thu, 12 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/galleries/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fedora 38 &#43; Bspwm</title>
+      <link>http://localhost:1313/galleries/g33/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g33/</guid>
+      <description>@duartebv17</description>
+    </item>
+    <item>
+      <title>openSUSE Tumbleewed &#43; KDE Plasma</title>
+      <link>http://localhost:1313/galleries/g32/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g32/</guid>
+      <description>@josejacsan</description>
+    </item>
+    <item>
+      <title>Pop!_OS 22.04</title>
+      <link>http://localhost:1313/galleries/g36/</link>
+      <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g36/</guid>
+      <description>@dvidirodrigues</description>
+    </item>
+    <item>
+      <title>BrOS &#43; KDE Plasma</title>
+      <link>http://localhost:1313/galleries/g43/</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g43/</guid>
+      <description>@jeffersoncesarantunes</description>
+    </item>
+    <item>
+      <title>Arch Linux &#43; Bspwm</title>
+      <link>http://localhost:1313/galleries/g42/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g42/</guid>
+      <description>@mateus_dev_me</description>
+    </item>
+    <item>
+      <title>Arch Linux &#43; XFCE</title>
+      <link>http://localhost:1313/galleries/g40/</link>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g40/</guid>
+      <description>@eu.beto</description>
+    </item>
+    <item>
+      <title>Ubuntu 18.04 &#43; GNOME</title>
+      <link>http://localhost:1313/galleries/g51/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g51/</guid>
+      <description>@_daniel.amador</description>
+    </item>
+    <item>
+      <title>Arch Linux &#43; KDE Plasma</title>
+      <link>http://localhost:1313/galleries/g50/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g50/</guid>
+      <description>@elphobia</description>
+    </item>
     <item>
       <title>Linux Mint 19.2 &#43; Cinnamon</title>
       <link>http://localhost:1313/galleries/g18/</link>
       <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
       <guid>http://localhost:1313/galleries/g18/</guid>
       <description>@liviadencker</description>
+    </item>
+    <item>
+      <title>Arch Linux &#43; awesome</title>
+      <link>http://localhost:1313/galleries/g44/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g44/</guid>
+      <description>@wh01su1dk</description>
     </item>
     <item>
       <title>Arch Linux &#43; GNOME</title>
@@ -25,11 +88,53 @@
       <description>@luccaspolonio</description>
     </item>
     <item>
+      <title>Arch Linux &#43; GNOME</title>
+      <link>http://localhost:1313/galleries/g35/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g35/</guid>
+      <description>@je4npw</description>
+    </item>
+    <item>
+      <title>Arch Linux &#43; GNOME</title>
+      <link>http://localhost:1313/galleries/g38/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g38/</guid>
+      <description>@je4npw</description>
+    </item>
+    <item>
+      <title>Arch Linux &#43; Hyprland</title>
+      <link>http://localhost:1313/galleries/g21/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g21/</guid>
+      <description>@juliotec00</description>
+    </item>
+    <item>
       <title>Arch Linux &#43; Hyprland</title>
       <link>http://localhost:1313/galleries/g4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
       <guid>http://localhost:1313/galleries/g4/</guid>
       <description>@eu.beto</description>
+    </item>
+    <item>
+      <title>Arch Linux &#43; Sway</title>
+      <link>http://localhost:1313/galleries/g23/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g23/</guid>
+      <description>@johncorreia02</description>
+    </item>
+    <item>
+      <title>Arch Linux &#43; Sway</title>
+      <link>http://localhost:1313/galleries/g25/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g25/</guid>
+      <description>@johnvadia02</description>
+    </item>
+    <item>
+      <title>Arch Linux &#43; Sway</title>
+      <link>http://localhost:1313/galleries/g39/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g39/</guid>
+      <description>@johncorreia02</description>
     </item>
     <item>
       <title>Archcraft &#43; Openbox</title>
@@ -39,6 +144,13 @@
       <description>@je4npw</description>
     </item>
     <item>
+      <title>Artix Linux &#43; Bspwm</title>
+      <link>http://localhost:1313/galleries/g28/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g28/</guid>
+      <description>@eldermf</description>
+    </item>
+    <item>
       <title>BigLinux &#43; KDE Plasma</title>
       <link>http://localhost:1313/galleries/g3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
@@ -46,11 +158,39 @@
       <description>@josejacsan</description>
     </item>
     <item>
+      <title>BigLinux &#43; KDE Plasma</title>
+      <link>http://localhost:1313/galleries/g41/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g41/</guid>
+      <description>@edsimas</description>
+    </item>
+    <item>
+      <title>Debian 12 &#43; XFCE</title>
+      <link>http://localhost:1313/galleries/g26/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g26/</guid>
+      <description>@eu.beto</description>
+    </item>
+    <item>
+      <title>Deepin 20</title>
+      <link>http://localhost:1313/galleries/g52/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g52/</guid>
+      <description>@jim_4067</description>
+    </item>
+    <item>
       <title>Fedora 38 &#43; GNOME</title>
       <link>http://localhost:1313/galleries/g2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
       <guid>http://localhost:1313/galleries/g2/</guid>
       <description>@brunno_allves_2001</description>
+    </item>
+    <item>
+      <title>Fedora Linux 39 &#43; KDE Plasma</title>
+      <link>http://localhost:1313/galleries/g22/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g22/</guid>
+      <description>@fabiojlbc1982</description>
     </item>
     <item>
       <title>Garuda Linux &#43; KDE Plasma</title>
@@ -74,11 +214,32 @@
       <description>@luks_sferreira</description>
     </item>
     <item>
+      <title>Linux Mint 21.3 &#43; Cinnamon</title>
+      <link>http://localhost:1313/galleries/g24/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g24/</guid>
+      <description>@daniloabrantes</description>
+    </item>
+    <item>
       <title>Manjaro Linux &#43; KDE Plasma</title>
       <link>http://localhost:1313/galleries/g19/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
       <guid>http://localhost:1313/galleries/g19/</guid>
       <description>@joaopauloalbq</description>
+    </item>
+    <item>
+      <title>Manjaro Linux &#43; KDE Plasma</title>
+      <link>http://localhost:1313/galleries/g34/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g34/</guid>
+      <description>@kevinbs</description>
+    </item>
+    <item>
+      <title>Manjaro Linux &#43; KDE Plasma</title>
+      <link>http://localhost:1313/galleries/g45/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g45/</guid>
+      <description>@frka_beatz</description>
     </item>
     <item>
       <title>Manjaro Linux &#43; XFCE</title>
@@ -93,6 +254,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
       <guid>http://localhost:1313/galleries/g12/</guid>
       <description>@eldermf</description>
+    </item>
+    <item>
+      <title>MX Linux 23 &#43; XFCE</title>
+      <link>http://localhost:1313/galleries/g48/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g48/</guid>
+      <description>@jalti_</description>
     </item>
     <item>
       <title>OpenSUSE Tumbleweed &#43; KDE Plasma</title>
@@ -149,6 +317,34 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
       <guid>http://localhost:1313/galleries/g9/</guid>
       <description>@presiden.irfans</description>
+    </item>
+    <item>
+      <title>Ubuntu 22.04 &#43; Openbox</title>
+      <link>http://localhost:1313/galleries/g27/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g27/</guid>
+      <description>@rodolphocostach</description>
+    </item>
+    <item>
+      <title>Ubuntu Studio</title>
+      <link>http://localhost:1313/galleries/g49/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g49/</guid>
+      <description>@designelinux</description>
+    </item>
+    <item>
+      <title>Void Linux &#43; GNOME</title>
+      <link>http://localhost:1313/galleries/g29/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g29/</guid>
+      <description>@galskt_</description>
+    </item>
+    <item>
+      <title>Void Linux &#43; XFCE</title>
+      <link>http://localhost:1313/galleries/g37/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g37/</guid>
+      <description>@al_interpol</description>
     </item>
   </channel>
 </rss>
