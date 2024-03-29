@@ -1,6 +1,6 @@
 ---
 title: Manjaro Linux + XFCE
-categories: [XFCE,Manjaro Linux]
+categories: [XFCE,Manjaro]
 date: 2019-30-12
 ---
 
