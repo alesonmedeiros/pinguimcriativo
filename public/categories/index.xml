@@ -39,6 +39,20 @@
       <description></description>
     </item>
     <item>
+      <title>MX Linux</title>
+      <link>http://localhost:1313/categories/mx-linux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/categories/mx-linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>XFCE</title>
+      <link>http://localhost:1313/categories/xfce/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/categories/xfce/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>OpenSUSE</title>
       <link>http://localhost:1313/categories/opensuse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
@@ -85,13 +99,6 @@
       <link>http://localhost:1313/categories/arch-linux/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
       <guid>http://localhost:1313/categories/arch-linux/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>XFCE</title>
-      <link>http://localhost:1313/categories/xfce/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
-      <guid>http://localhost:1313/categories/xfce/</guid>
       <description></description>
     </item>
     <item>
@@ -190,13 +197,6 @@
       <link>http://localhost:1313/categories/manjaro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
       <guid>http://localhost:1313/categories/manjaro/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>MX Linux</title>
-      <link>http://localhost:1313/categories/mx-linux/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
-      <guid>http://localhost:1313/categories/mx-linux/</guid>
       <description></description>
     </item>
     <item>

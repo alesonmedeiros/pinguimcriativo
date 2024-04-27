@@ -8,8 +8,15 @@
     <language>en-us</language>
     <managingEditor>contato@pinguimcriativo.com (O Pinguim Criativo)</managingEditor>
     <webMaster>contato@pinguimcriativo.com (O Pinguim Criativo)</webMaster>
-    <lastBuildDate>Fri, 10 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/xfce/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MX Linux &#43; XFCE</title>
+      <link>http://localhost:1313/galleries/g62/</link>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g62/</guid>
+      <description>@enrikmonteiro</description>
+    </item>
     <item>
       <title>Arch Linux &#43; XFCE</title>
       <link>http://localhost:1313/galleries/g40/</link>
