@@ -8,10 +8,19 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/bspwm/</loc>
-    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/kde/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/galleries/g30/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/tuxedoos/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/bspwm/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/fedora/</loc>
@@ -19,9 +28,6 @@
   </url><url>
     <loc>http://localhost:1313/galleries/g33/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/kde/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/opensuse/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
@@ -63,19 +69,31 @@
     <lastmod>2023-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/ubuntu/</loc>
-    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/galleries/g55/</loc>
+    <lastmod>2020-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/galleries/g59/</loc>
+    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/cinnamon/</loc>
+    <lastmod>2020-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/linux-mint/</loc>
+    <lastmod>2020-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/galleries/g57/</loc>
+    <lastmod>2020-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/galleries/g58/</loc>
+    <lastmod>2020-06-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/galleries/g51/</loc>
     <lastmod>2020-06-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/galleries/g50/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/cinnamon/</loc>
-    <lastmod>2019-09-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/linux-mint/</loc>
-    <lastmod>2019-09-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/galleries/g18/</loc>
     <lastmod>2019-09-12T00:00:00+00:00</lastmod>
@@ -91,6 +109,8 @@
     <loc>http://localhost:1313/galleries/g21/</loc>
   </url><url>
     <loc>http://localhost:1313/galleries/g4/</loc>
+  </url><url>
+    <loc>http://localhost:1313/galleries/g54/</loc>
   </url><url>
     <loc>http://localhost:1313/galleries/g23/</loc>
   </url><url>
@@ -150,6 +170,8 @@
   </url><url>
     <loc>http://localhost:1313/galleries/g45/</loc>
   </url><url>
+    <loc>http://localhost:1313/galleries/g56/</loc>
+  </url><url>
     <loc>http://localhost:1313/galleries/g17/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/mx-linux/</loc>
@@ -181,6 +203,10 @@
     <loc>http://localhost:1313/galleries/g7/</loc>
   </url><url>
     <loc>http://localhost:1313/galleries/g9/</loc>
+  </url><url>
+    <loc>http://localhost:1313/galleries/g60/</loc>
+  </url><url>
+    <loc>http://localhost:1313/galleries/g53/</loc>
   </url><url>
     <loc>http://localhost:1313/galleries/g27/</loc>
   </url><url>

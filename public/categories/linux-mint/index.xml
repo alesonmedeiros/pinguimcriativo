@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux Mint on O Pinguim Criativo</title>
+    <link>http://localhost:1313/categories/linux-mint/</link>
+    <description>Recent content in Linux Mint on O Pinguim Criativo</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>contato@pinguimcriativo.com (O Pinguim Criativo)</managingEditor>
+    <webMaster>contato@pinguimcriativo.com (O Pinguim Criativo)</webMaster>
+    <lastBuildDate>Sun, 06 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/linux-mint/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux Mint Debian Edition 4 &#43; Cinnamon</title>
+      <link>http://localhost:1313/galleries/g57/</link>
+      <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g57/</guid>
+      <description>@anderson.abomfim</description>
+    </item>
+    <item>
+      <title>Linux Mint 19.2 &#43; Cinnamon</title>
+      <link>http://localhost:1313/galleries/g18/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g18/</guid>
+      <description>@liviadencker</description>
+    </item>
+    <item>
+      <title>Linux Mint 19.2 &#43; Cinnamon</title>
+      <link>http://localhost:1313/galleries/g11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g11/</guid>
+      <description>@bcosta579</description>
+    </item>
+    <item>
+      <title>Linux Mint 19.2 &#43; Cinnamon</title>
+      <link>http://localhost:1313/galleries/g15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g15/</guid>
+      <description>@luks_sferreira</description>
+    </item>
+    <item>
+      <title>Linux Mint 21.3 &#43; Cinnamon</title>
+      <link>http://localhost:1313/galleries/g24/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g24/</guid>
+      <description>@daniloabrantes</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arch Linux on O Pinguim Criativo</title>
+    <link>http://localhost:1313/categories/arch-linux/</link>
+    <description>Recent content in Arch Linux on O Pinguim Criativo</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>contato@pinguimcriativo.com (O Pinguim Criativo)</managingEditor>
+    <webMaster>contato@pinguimcriativo.com (O Pinguim Criativo)</webMaster>
+    <lastBuildDate>Sun, 11 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/arch-linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arch Linux &#43; Bspwm</title>
+      <link>http://localhost:1313/galleries/g42/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g42/</guid>
+      <description>@mateus_dev_me</description>
+    </item>
+    <item>
+      <title>Arch Linux &#43; XFCE</title>
+      <link>http://localhost:1313/galleries/g40/</link>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g40/</guid>
+      <description>@eu.beto</description>
+    </item>
+    <item>
+      <title>Arch Linux &#43; KDE Plasma</title>
+      <link>http://localhost:1313/galleries/g50/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g50/</guid>
+      <description>@elphobia</description>
+    </item>
+    <item>
+      <title>Arch Linux &#43; awesome</title>
+      <link>http://localhost:1313/galleries/g44/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g44/</guid>
+      <description>@wh01su1dk</description>
+    </item>
+    <item>
+      <title>Arch Linux &#43; GNOME</title>
+      <link>http://localhost:1313/galleries/g1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g1/</guid>
+      <description>@luccaspolonio</description>
+    </item>
+    <item>
+      <title>Arch Linux &#43; GNOME</title>
+      <link>http://localhost:1313/galleries/g35/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g35/</guid>
+      <description>@je4npw</description>
+    </item>
+    <item>
+      <title>Arch Linux &#43; GNOME</title>
+      <link>http://localhost:1313/galleries/g38/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g38/</guid>
+      <description>@je4npw</description>
+    </item>
+    <item>
+      <title>Arch Linux &#43; Hyprland</title>
+      <link>http://localhost:1313/galleries/g21/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g21/</guid>
+      <description>@juliotec00</description>
+    </item>
+    <item>
+      <title>Arch Linux &#43; Hyprland</title>
+      <link>http://localhost:1313/galleries/g4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g4/</guid>
+      <description>@eu.beto</description>
+    </item>
+    <item>
+      <title>Arch Linux &#43; KDE Plasma</title>
+      <link>http://localhost:1313/galleries/g54/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g54/</guid>
+      <description>@juliotec00</description>
+    </item>
+    <item>
+      <title>Arch Linux &#43; Sway</title>
+      <link>http://localhost:1313/galleries/g23/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g23/</guid>
+      <description>@johncorreia02</description>
+    </item>
+    <item>
+      <title>Arch Linux &#43; Sway</title>
+      <link>http://localhost:1313/galleries/g25/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g25/</guid>
+      <description>@johnvadia02</description>
+    </item>
+    <item>
+      <title>Arch Linux &#43; Sway</title>
+      <link>http://localhost:1313/galleries/g39/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g39/</guid>
+      <description>@johncorreia02</description>
+    </item>
+  </channel>
+</rss>

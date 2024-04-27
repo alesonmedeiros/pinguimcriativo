@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XFCE on O Pinguim Criativo</title>
+    <link>http://localhost:1313/categories/xfce/</link>
+    <description>Recent content in XFCE on O Pinguim Criativo</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>contato@pinguimcriativo.com (O Pinguim Criativo)</managingEditor>
+    <webMaster>contato@pinguimcriativo.com (O Pinguim Criativo)</webMaster>
+    <lastBuildDate>Fri, 10 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/xfce/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arch Linux &#43; XFCE</title>
+      <link>http://localhost:1313/galleries/g40/</link>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g40/</guid>
+      <description>@eu.beto</description>
+    </item>
+    <item>
+      <title>Ubuntu 20.04 &#43; XFCE</title>
+      <link>http://localhost:1313/galleries/g59/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g59/</guid>
+      <description>@paraybaroger</description>
+    </item>
+    <item>
+      <title>Debian 12 &#43; XFCE</title>
+      <link>http://localhost:1313/galleries/g26/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g26/</guid>
+      <description>@eu.beto</description>
+    </item>
+    <item>
+      <title>Manjaro Linux &#43; XFCE</title>
+      <link>http://localhost:1313/galleries/g17/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g17/</guid>
+      <description>@gbr____</description>
+    </item>
+    <item>
+      <title>MX Linux 19 &#43; XFCE</title>
+      <link>http://localhost:1313/galleries/g12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g12/</guid>
+      <description>@eldermf</description>
+    </item>
+    <item>
+      <title>MX Linux 23 &#43; XFCE</title>
+      <link>http://localhost:1313/galleries/g48/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g48/</guid>
+      <description>@jalti_</description>
+    </item>
+    <item>
+      <title>Ubuntu 18.04 &#43; XFCE</title>
+      <link>http://localhost:1313/galleries/g13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g13/</guid>
+      <description>@phillip.monterazzo</description>
+    </item>
+    <item>
+      <title>Ubuntu Studio</title>
+      <link>http://localhost:1313/galleries/g49/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g49/</guid>
+      <description>@designelinux</description>
+    </item>
+    <item>
+      <title>Void Linux &#43; XFCE</title>
+      <link>http://localhost:1313/galleries/g37/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g37/</guid>
+      <description>@al_interpol</description>
+    </item>
+  </channel>
+</rss>

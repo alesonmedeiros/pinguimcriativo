@@ -4,12 +4,19 @@
     <title>Galerias on O Pinguim Criativo</title>
     <link>http://localhost:1313/galleries/</link>
     <description>Recent content in Galerias on O Pinguim Criativo</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>contato@pinguimcriativo.com (O Pinguim Criativo)</managingEditor>
     <webMaster>contato@pinguimcriativo.com (O Pinguim Criativo)</webMaster>
-    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/galleries/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tuxedo OS 2 &#43; KDE Plasma</title>
+      <link>http://localhost:1313/galleries/g30/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g30/</guid>
+      <description>@lucastosca</description>
+    </item>
     <item>
       <title>Fedora 38 &#43; Bspwm</title>
       <link>http://localhost:1313/galleries/g33/</link>
@@ -51,6 +58,34 @@
       <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
       <guid>http://localhost:1313/galleries/g40/</guid>
       <description>@eu.beto</description>
+    </item>
+    <item>
+      <title>Ubuntu 20.04 &#43; GNOME</title>
+      <link>http://localhost:1313/galleries/g55/</link>
+      <pubDate>Sat, 05 Dec 2020 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g55/</guid>
+      <description>@_daniel.amador</description>
+    </item>
+    <item>
+      <title>Ubuntu 20.04 &#43; XFCE</title>
+      <link>http://localhost:1313/galleries/g59/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g59/</guid>
+      <description>@paraybaroger</description>
+    </item>
+    <item>
+      <title>Linux Mint Debian Edition 4 &#43; Cinnamon</title>
+      <link>http://localhost:1313/galleries/g57/</link>
+      <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g57/</guid>
+      <description>@anderson.abomfim</description>
+    </item>
+    <item>
+      <title>Ubuntu 20.04 &#43; KDE Plasma</title>
+      <link>http://localhost:1313/galleries/g58/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g58/</guid>
+      <description>@crestaniraphael</description>
     </item>
     <item>
       <title>Ubuntu 18.04 &#43; GNOME</title>
@@ -114,6 +149,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
       <guid>http://localhost:1313/galleries/g4/</guid>
       <description>@eu.beto</description>
+    </item>
+    <item>
+      <title>Arch Linux &#43; KDE Plasma</title>
+      <link>http://localhost:1313/galleries/g54/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g54/</guid>
+      <description>@juliotec00</description>
     </item>
     <item>
       <title>Arch Linux &#43; Sway</title>
@@ -242,6 +284,13 @@
       <description>@frka_beatz</description>
     </item>
     <item>
+      <title>Manjaro Linux &#43; KDE Plasma</title>
+      <link>http://localhost:1313/galleries/g56/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g56/</guid>
+      <description>@wisley.ribeiro0</description>
+    </item>
+    <item>
       <title>Manjaro Linux &#43; XFCE</title>
       <link>http://localhost:1313/galleries/g17/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
@@ -317,6 +366,20 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
       <guid>http://localhost:1313/galleries/g9/</guid>
       <description>@presiden.irfans</description>
+    </item>
+    <item>
+      <title>Ubuntu 20.04 &#43; Budgie Desktop</title>
+      <link>http://localhost:1313/galleries/g60/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g60/</guid>
+      <description>@maculan</description>
+    </item>
+    <item>
+      <title>Ubuntu 22.04 &#43; KDE Plasma</title>
+      <link>http://localhost:1313/galleries/g53/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g53/</guid>
+      <description>@alesonmedeiros</description>
     </item>
     <item>
       <title>Ubuntu 22.04 &#43; Openbox</title>

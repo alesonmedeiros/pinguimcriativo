@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sway on O Pinguim Criativo</title>
+    <link>http://localhost:1313/categories/sway/</link>
+    <description>Recent content in Sway on O Pinguim Criativo</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>contato@pinguimcriativo.com (O Pinguim Criativo)</managingEditor>
+    <webMaster>contato@pinguimcriativo.com (O Pinguim Criativo)</webMaster>
+    <atom:link href="http://localhost:1313/categories/sway/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arch Linux &#43; Sway</title>
+      <link>http://localhost:1313/galleries/g23/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g23/</guid>
+      <description>@johncorreia02</description>
+    </item>
+    <item>
+      <title>Arch Linux &#43; Sway</title>
+      <link>http://localhost:1313/galleries/g25/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g25/</guid>
+      <description>@johnvadia02</description>
+    </item>
+    <item>
+      <title>Arch Linux &#43; Sway</title>
+      <link>http://localhost:1313/galleries/g39/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g39/</guid>
+      <description>@johncorreia02</description>
+    </item>
+  </channel>
+</rss>

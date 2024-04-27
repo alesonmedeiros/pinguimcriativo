@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deepin on O Pinguim Criativo</title>
+    <link>http://localhost:1313/categories/deepin/</link>
+    <description>Recent content in Deepin on O Pinguim Criativo</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>contato@pinguimcriativo.com (O Pinguim Criativo)</managingEditor>
+    <webMaster>contato@pinguimcriativo.com (O Pinguim Criativo)</webMaster>
+    <atom:link href="http://localhost:1313/categories/deepin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deepin 20</title>
+      <link>http://localhost:1313/galleries/g52/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g52/</guid>
+      <description>@jim_4067</description>
+    </item>
+  </channel>
+</rss>

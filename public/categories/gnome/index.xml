@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GNOME on O Pinguim Criativo</title>
+    <link>http://localhost:1313/categories/gnome/</link>
+    <description>Recent content in GNOME on O Pinguim Criativo</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>contato@pinguimcriativo.com (O Pinguim Criativo)</managingEditor>
+    <webMaster>contato@pinguimcriativo.com (O Pinguim Criativo)</webMaster>
+    <lastBuildDate>Sat, 09 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/gnome/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pop!_OS 22.04</title>
+      <link>http://localhost:1313/galleries/g36/</link>
+      <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g36/</guid>
+      <description>@dvidirodrigues</description>
+    </item>
+    <item>
+      <title>Ubuntu 20.04 &#43; GNOME</title>
+      <link>http://localhost:1313/galleries/g55/</link>
+      <pubDate>Sat, 05 Dec 2020 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g55/</guid>
+      <description>@_daniel.amador</description>
+    </item>
+    <item>
+      <title>Ubuntu 18.04 &#43; GNOME</title>
+      <link>http://localhost:1313/galleries/g51/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g51/</guid>
+      <description>@_daniel.amador</description>
+    </item>
+    <item>
+      <title>Arch Linux &#43; GNOME</title>
+      <link>http://localhost:1313/galleries/g1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g1/</guid>
+      <description>@luccaspolonio</description>
+    </item>
+    <item>
+      <title>Arch Linux &#43; GNOME</title>
+      <link>http://localhost:1313/galleries/g35/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g35/</guid>
+      <description>@je4npw</description>
+    </item>
+    <item>
+      <title>Arch Linux &#43; GNOME</title>
+      <link>http://localhost:1313/galleries/g38/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g38/</guid>
+      <description>@je4npw</description>
+    </item>
+    <item>
+      <title>Fedora 38 &#43; GNOME</title>
+      <link>http://localhost:1313/galleries/g2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g2/</guid>
+      <description>@brunno_allves_2001</description>
+    </item>
+    <item>
+      <title>Pop!_OS 19.10</title>
+      <link>http://localhost:1313/galleries/g16/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g16/</guid>
+      <description>@luigi_ic</description>
+    </item>
+    <item>
+      <title>Ubuntu 18.04 &#43; GNOME</title>
+      <link>http://localhost:1313/galleries/g10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g10/</guid>
+      <description>@Pbsl56</description>
+    </item>
+    <item>
+      <title>Ubuntu 19.10 &#43; GNOME</title>
+      <link>http://localhost:1313/galleries/g6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g6/</guid>
+      <description>@chessfortress</description>
+    </item>
+    <item>
+      <title>Ubuntu 19.10 &#43; GNOME</title>
+      <link>http://localhost:1313/galleries/g7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g7/</guid>
+      <description>@borelanjo</description>
+    </item>
+    <item>
+      <title>Void Linux &#43; GNOME</title>
+      <link>http://localhost:1313/galleries/g29/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contato@pinguimcriativo.com (O Pinguim Criativo)</author>
+      <guid>http://localhost:1313/galleries/g29/</guid>
+      <description>@galskt_</description>
+    </item>
+  </channel>
+</rss>
